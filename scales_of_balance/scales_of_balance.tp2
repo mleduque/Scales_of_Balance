@@ -63,6 +63,11 @@ LANGUAGE
   ~polish~
   ~scales_of_balance/language/en_US/setup.tra~
   ~scales_of_balance/language/pl_PL/setup.tra~
+LANGUAGE
+  ~French~
+  ~french~
+  ~scales_of_balance/language/en_US/setup.tra~
+  ~scales_of_balance/language/fr_FR/setup.tra~
 
 
 //__________________________________________________________________________________
